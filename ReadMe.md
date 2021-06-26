@@ -1,0 +1,1 @@
+This is a simple spider used to collect data from yahoo finance unavailable in the api in order to do a study with the [machine learning side project](https://github.com/Kwsswart/stock)
